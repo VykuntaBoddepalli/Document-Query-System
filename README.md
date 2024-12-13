@@ -116,7 +116,3 @@ Ensure that the `.env` file in the `Document Query System` directory is correctl
 - **Response**:
   - `200 OK` with a JSON response containing the query result.
   - `400 Bad Request` if no query is provided.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
