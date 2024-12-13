@@ -2,7 +2,6 @@
 
 This project is a full-stack application that allows users to upload documents and query them using natural language processing. The backend is built with Flask and integrates with Azure OpenAI for language models and embeddings. The frontend is built with React and provides a user-friendly interface for uploading documents and querying them.
 
-![img.png](img.png)
 
 ## Features
 
